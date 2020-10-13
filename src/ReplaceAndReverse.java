@@ -1,6 +1,6 @@
 public class ReplaceAndReverse {
 
-    //DN('A' & 'T'), ('C' & 'G') replace with each other and reverse the string with
+    //DNA ('A' & 'T'), ('C' & 'G') replace with each other and reverse the string with
     // input 'GTCAA' and output should be 'TTGAC'
 
     public static void main (String[]args){
